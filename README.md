@@ -16,7 +16,7 @@
 
 > Undergraduate student @ PUST <br/>
 > 
-Many factors contribute to why I am interested in designing and developing computer software. While I enjoy the logical challenges within computer science I also love the creative work, which fits in with my love for Drama and my enjoyment of drawing.
+Many factors contribute to why I am interested in designing and developing computer software. While I enjoy the logical challenges within computer science I also love the creative work, which fits in with my love for Drama and my enjoyment of Swimming.
 
 ### Things you should know
 
