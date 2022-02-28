@@ -1,11 +1,11 @@
-<!--# Hlw! This is Towhidul Islam. Nice to meet you! 👋
+<!--# 
 
 
 - 👯 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐰𝐢𝐭𝐡: Backend Developer 
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: Anything Tech Related
 - 😄 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐛𝐞𝐭𝐭𝐞𝐫 𝐰𝐢𝐭𝐡: MERN
 -->
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=NazmulHodaa&&show_icons=true&theme=light&count_private=true" alt="towhidul's Github Stats"/>](https://github.com/NazmulHodaa)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=NazmulHodaa&&show_icons=true&theme=light&count_private=true" alt="Nazmul's Github Stats"/>](https://github.com/NazmulHodaa)
 
 # Hello, I am Nazmul Hoda ! Nice to meet you😄
 
