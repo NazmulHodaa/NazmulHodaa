@@ -40,7 +40,7 @@ I don't want to change the world. I just want to change the way we interact with
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NazmulHodaa&hide_border=false&theme=nightowl&background=ffffff" width="55%" />
    
-   <img src="https://activity-graph.herokuapp.com/graph?username=NazmulHodaa&theme=tokyonight_duo" width="100%"/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=NazmulHodaa&theme=nightowl" width="100%"/>
 
 
 
