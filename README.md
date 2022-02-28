@@ -16,7 +16,7 @@
 
 > Undergraduate student @ PUST <br/>
 > 
-I don't want to change the world. I just want to change the way we interact with it and programming is a good way to accomplish it. Every day I challenge myself to imagine new possible solutions for real-world problems and create them by writing new lines of code...🙂
+Many factors contribute to why I am interested in designing and developing computer software. While I enjoy the logical challenges within computer science I also love the creative work, which fits in with my love for Drama and my enjoyment of drawing.
 
 ### Things you should know
 
